@@ -1,0 +1,1 @@
+This contains code of writing enrichment data into HDFS.
