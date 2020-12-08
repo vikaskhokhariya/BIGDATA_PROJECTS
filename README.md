@@ -1,3 +1,3 @@
 # MCIT_PROJECTS
 
-This repository contains projects of MCIT
+This repository contains projects of MCIt
